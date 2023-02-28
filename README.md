@@ -3,4 +3,4 @@ This code is for the first task in my internship with OpenSoft, in this task, i 
 
 **Entity Relationship Diagram of the System below:**
 
-![LMS ER drawio](https://user-images.githubusercontent.com/59648569/220789017-558da24f-c782-49e1-8d6c-4a4c7e19629d.png)
+![LibraryManagementSystemERD](https://user-images.githubusercontent.com/59648569/221879286-99ec85e8-365a-406c-b32c-7878f64c4292.png)
